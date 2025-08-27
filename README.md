@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Raj Patel! 👋
 
-<!--
-**rajrpatel62499/rajrpatel62499** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Profile Views](https://komarev.com/ghpvc/?username=rajrpatel62499&label=Profile%20views&color=blue&style=for-the-badge)](https://github.com/rajrpatel62499)
+[![Website](https://img.shields.io/badge/-Website-1e90ff?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rajpatel.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajrpatel62499)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajrpatel62499@gmail.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👋 About Me
+
+- 🏆 Senior Software Engineer | AI & Full Stack | Cloud
+- 💡 Building LLM-powered, cloud-native solutions for Banking, FinTech, EdTech & SaaS
+- 💬 Ask me about Java, Python, TypeScript, Angular, React, Node.js, FastAPI, Spring Boot, AWS, Azure, LangChain, LangGraph, OpenAI
+
+---
+
+## 🌐 My Website & Projects
+
+- 🌍 Visit my website: [rajpatel.dev](https://rajpatel.dev)
+- 🚀 Explore my projects: [rajpatel.dev/projects](https://rajpatel.dev/#projects)
+- 📝 Read my blog: [rajpatel.dev/blog](https://rajpatel.dev/blog)
+
+---
+
+## ⚡ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,c,cpp,html,css,angular,react,nextjs,redux,nodejs,express,flask,django,fastapi,spring,mysql,mongodb,postgres,sqlite,azure,aws,docker,git,github,gradle,jenkins,maven,redis,kafka,graphql,bash,linux" />
+</p>
+
+**Also work with:**  
+LangChain, LangGraph, OpenAI, Pinecone, LlamaIndex, IBM MQ, RabbitMQ, Powershell, Unix, EDP GT
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=rajrpatel62499&show_icons=true&theme=radical" alt="Raj's GitHub Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=rajrpatel62499&theme=radical" alt="Raj's GitHub Streak"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajrpatel62499&layout=compact&theme=radical" alt="Raj's Top Languages"/>
+</div>
+
+---
+
+## 📫 Connect with Me
+
+- [rajpatel.dev](https://rajpatel.dev)
+- [LinkedIn](https://linkedin.com/in/rajrpatel62499)
+- [Email](mailto:rajrpatel62499@gmail.com)
+
+---
+
+<p align="center">Made with ❤️ in Canada & India</p>
