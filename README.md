@@ -18,7 +18,7 @@
 ## 🌐 My Website & Projects
 
 - 🌍 Visit my website: [rajrpatel.dev](https://rajrpatel.dev)
-- 🚀 Explore my projects: [rajpatel.dev/projects](https://rajrpatel.dev/#projects)
+- 🚀 Explore my projects: [rajpatel.dev/#projects](https://rajrpatel.dev/#projects)
 
 ---
 
