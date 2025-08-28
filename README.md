@@ -17,9 +17,8 @@
 
 ## 🌐 My Website & Projects
 
-- 🌍 Visit my website: [rajpatel.dev](https://rajpatel.dev)
-- 🚀 Explore my projects: [rajpatel.dev/projects](https://rajpatel.dev/#projects)
-- 📝 Read my blog: [rajpatel.dev/blog](https://rajpatel.dev/blog)
+- 🌍 Visit my website: [rajrpatel.dev](https://rajrpatel.dev)
+- 🚀 Explore my projects: [rajpatel.dev/projects](https://rajrpatel.dev/#projects)
 
 ---
 
@@ -46,7 +45,7 @@ LangChain, LangGraph, OpenAI, Pinecone, LlamaIndex, IBM MQ, RabbitMQ, Powershell
 
 ## 📫 Connect with Me
 
-- [rajpatel.dev](https://rajpatel.dev)
+- [rajrpatel.dev](https://rajrpatel.dev)
 - [LinkedIn](https://linkedin.com/in/rajrpatel62499)
 - [Email](mailto:rajrpatel62499@gmail.com)
 
